@@ -9,7 +9,7 @@
     "start": "node server.js"
   },
   "engines": {
-    "node": "4.4.5"
+    "node": "19.6"
   },
   "repository": {
     "type": "git",
