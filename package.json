@@ -11,6 +11,7 @@
     "freecodecamp"
   ],
   "license": "MIT",
+  "version": "1.0.1",
   "dependencies": {
     "express": "^4.14.0"
   },
