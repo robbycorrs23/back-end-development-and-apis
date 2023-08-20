@@ -7,7 +7,8 @@
     "webdev",
     "api",
     "backend",
-    "node"
+    "node",
+    "freecodecamp"
   ],
   "dependencies": {
     "express": "^4.14.0"
